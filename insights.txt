@@ -1,0 +1,9 @@
+Total revenue: $3.3M  profit: $382K  margin: 11.6%
+Revenue by year: 2023: $954K, 2024: $1.1M, 2025: $1.2M
+2025 growth vs 2024: +8.4%
+Q4 share of revenue: 36.2%
+Central Furniture margin: 0.4% (profit $1K)
+Margin at discount >=30%: -4.4%; at <=10%: 17.3%
+Share of orders with >=30% discount: 20.2%
+Loss-making orders: 18.0% of orders
+Median order: $391  mean: $892
